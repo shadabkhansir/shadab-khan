@@ -35,6 +35,13 @@
 <br />
 
 ---
+### Things I love:
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Backend Development ✍️
+- Web Development 🧐
+- Android Developent 😬
+---
+
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 [website]: https://shadabkhansir.github.io/
