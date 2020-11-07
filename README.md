@@ -36,9 +36,6 @@
 
 ---
 
-
-<img align="left" alt="vinaysomawat's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinaysomawat&show_icons=true&hide_border=true" />
-
 [website]: https://shadabkhansir.github.io/
 [twitter]: https://twitter.com/Shadabkhansir/
 [instagram]: https://www.instagram.com/shadabkhansir/
